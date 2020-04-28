@@ -1,0 +1,14 @@
+{
+  "name": "test-driven-development-02",
+  "version": "1.0.0",
+  "description": "28/04/2020",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^25.4.0"
+  }
+}
